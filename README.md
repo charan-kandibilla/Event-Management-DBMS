@@ -49,7 +49,7 @@ It manages events, venues, vendors, volunteers, performances, and attendees, wit
 3. Install dependencies:
       pip install mysql-connector-python
 4. Run the Python GUI:
-      python event_management.py
+      python app.py
 ---
 
 ## Limitations & Ideas to Extend
